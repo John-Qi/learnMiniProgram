@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/about/about"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "戚建清",
+    "backgroundColor": "#eee"
+  },
+  "sitemapLocation": "sitemap62.json"
+}
